@@ -1,1 +1,1 @@
-# Kodilla-17-8
+Execute index.js to run server :)
